@@ -6,4 +6,4 @@ Built an interactive Excel dashboard combining all Pivot Tables with visual stor
 Implemented slicers for gender, car ownership, employment status, income type, age range, service years, income range, family status, and housing type.
 Delivered a data-driven tool to support strategic decision-making on New Branch Placement they are Identified Target Demographics, Income Segmentation, Asset Ownership, Education and Occupation Trends, Family and Housing Analysis, Customer Base Potential and Actionable Decision Support.# UNP_PROJECT_BI_WITH_MS_EXCEL_NEW_BRANCH_LOCATION_ASSESSMENT_DAT
 
-[https://docs.google.com/spreadsheets/d/1aN4IVxH0j1seF6iI72OxZkXO7X7V6jnt/edit?usp=sharing&ouid=103144490183469399459&rtpof=true&sd=true](https://1drv.ms/f/s!AqQX1x6baydYdtnzjesjmEk2TTI)
+https://1drv.ms/x/c/58276b9b1ed717a4/EaQX1x6baycggFh4AAAAAAABll7N8ByLliVji0TEPc4YBA?e=qI8RP5
